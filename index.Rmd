@@ -5,8 +5,17 @@ output:
     toc: true
     toc_float: true
     theme: cerulean
+editor_options: 
+  chunk_output_type: console
 ---
 
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+# Let's add some links
+
+I often use [google](www.google.com) to do data science.
+
+# Let's add an image
+<img src="lulu.jpg" style="width:75%">
+
