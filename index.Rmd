@@ -11,10 +11,13 @@ editor_options:
 
 # This is Jeff's awesome website
 
+You can learn about me [here](about.html)
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
 # Let's add some links
 
-I often use [google](www.google.com) to do data science.
+I often use [google](https://www.google.com) to do data science.
 
 # Let's add an image
 <img src="lulu.jpg" style="width:75%">
